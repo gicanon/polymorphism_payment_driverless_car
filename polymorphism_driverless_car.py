@@ -36,5 +36,3 @@ print(m)
 print(m.payment())
 print(vw)
 print(vw.payment())
-
-print('9'+ '9')
